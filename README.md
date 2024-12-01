@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AAsh-Perera
-- 👀 I’m interested in a lot of things, currently I'm fascinated by AI, and video game development. I also love some anime but only some.
-- 🌱 I’m currently learning Java and MERN Stack development
+- 👀 I’m interested in a lot of things, currently I'm fascinated by AI, and video game development.
 - 💞️ I’m looking to collaborate on any project that seems very interesting and can help me learn new stuff, so if you have a project you need help with HIT ME UP!!!!
 - 📫 How to reach me you can reach me through my email: ashane.me12@gmail.com
 - 😄 Pronouns: He/Him
